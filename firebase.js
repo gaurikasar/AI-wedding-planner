@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCCMlgSvtjiMCTUlWJ6AWSUR-19ooaX3Is",
+  apiKey: "secret key",
   authDomain: "enhanced-journal.firebaseapp.com",
   projectId: "enhanced-journal",
   storageBucket: "enhanced-journal.appspot.com",
